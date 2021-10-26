@@ -1,0 +1,2 @@
+# AR-WORKSHOP
+AR workshop consist of diﬀerent machines available in an Augmented Reality, the AR App will be given to each student , a markless AR App where each student can bring each machine to their reality to see the parts of the machine with label and also display the animation of explosion of each machine to see each part of the machine well, and the app will consists of Centre Lathe, CNC Lathe, Speed Lathe, Drilling Machine, Milling Machine, and a Robotic Arm.
